@@ -2,6 +2,11 @@ import Vue from 'vue'
 import Router from 'vue-router'
 
 import Movie from './views/Movie.vue'
+// movie 二级路由
+import nowplaying from './components/nowplaying'
+import comingsoon from './components/comingsoon'
+
+
 import Cinema from './views/Cinema.vue'
 import Center from './views/Center.vue'
 
@@ -12,7 +17,17 @@ export default new Router({
     {
       path: '/movie',
       // name: 'home',
-      component: Movie
+      component: Movie,
+      children: [
+        {
+          path: 'nowplaying',
+          component: nowplaying
+        },
+        {
+          path: 'comingsoon',
+          component: comingsoon
+        }
+      ]
     },
     {
       path: '/cinema',
@@ -27,7 +42,8 @@ export default new Router({
     {
       path: '/',
       // name: 'home',
-      component: Movie
+      component: Movie,
+      redirect: '/Movie/nowplaying'
     },  
 
     // {
