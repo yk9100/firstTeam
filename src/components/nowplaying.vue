@@ -20,7 +20,7 @@
 
     mounted () {
       axios.get('/ajax/movieOnInfoList?token=').then((res)=>{
-          console.log(res.data.movieList)
+          // console.log(res.data.movieList)
       })
     }
   }
