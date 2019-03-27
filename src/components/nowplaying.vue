@@ -1,6 +1,8 @@
 <template>
   <div class="container">
-      
+      <div class="items" v-for="film in filmList">
+        <img :src="rep2(rep1(film.img))" alt="">
+      </div>
   </div>
 </template>
 
@@ -16,11 +18,20 @@
     props: {
       msg: String
     },
+    methods: {
+      rep1 (str) {
+        return str.replace(/http/,'https');
+      },
+      rep2 (str) {
+        return str.replace(/w.h/, '128.180')
+      }
+    },
 
 
     mounted () {
       axios.get('/ajax/movieOnInfoList?token=').then((res)=>{
           console.log(res.data.movieList)
+          this.filmList = res.data.movieList
       })
     }
   }
