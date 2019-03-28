@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <tabbar></tabbar>
+    <tabbar v-show="$store.state.isTabbarShow"></tabbar>
     <router-view></router-view>
   </div>
 </template>
@@ -10,11 +10,21 @@
   	components: {
   			tabbar,
   		}
-  }
+  };
 </script>
 <style lang="scss">
 	*{
 		margin:0;
 		padding:0;
 	}
+
+  a{
+    text-decoration: none;
+  }
+
+  ul{
+    li{
+      list-style: none;
+    }
+  }
 </style>

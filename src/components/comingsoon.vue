@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
   <div>
 		<p class="p1">近期最受期待</p>
 			<div class="swiper-container">
@@ -84,10 +85,15 @@
 					</div>
 				</li>
 			</ul>
+=======
+	<div class="comingsoon">
+		
+>>>>>>> refs/remotes/origin/master
 	</div>
 </template>
 
 <script>
+<<<<<<< HEAD
   import Vue from 'vue'
 	import axios from 'axios'
 	import Swiper from 'swiper'
@@ -159,10 +165,15 @@
 			})
 		}
   }
+=======
+	export default{
+
+	}
+>>>>>>> refs/remotes/origin/master
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
+<<<<<<< HEAD
 *{
 	padding: 0;
 	margin: 0;
@@ -315,4 +326,7 @@
 			}
 		}
 	}
+=======
+
+>>>>>>> refs/remotes/origin/master
 </style>
