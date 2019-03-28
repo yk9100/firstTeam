@@ -6,9 +6,22 @@ import Movie from './views/Movie.vue'
 import nowplaying from './components/nowplaying'
 import comingsoon from './components/comingsoon'
 
-
 import Cinema from './views/Cinema.vue'
+
+import Register from './views/Register.vue'
+
 import Center from './views/Center.vue'
+
+import MyCenter from './views/MyCenter.vue'
+
+import MyOrder from './views/MyOrder.vue'
+//Center 二级路由
+import Accountlogin from './components/AccountLogin.vue'
+import Phonelogin from './components/PhoneLogin.vue'
+
+
+
+
 
 Vue.use(Router)
 
@@ -37,7 +50,31 @@ export default new Router({
     {
       path: '/center',
       // name: 'home',
-      component: Center
+      redirect: '/center/accountlogin',
+      component: Center,
+      children: [
+        {
+          path: 'accountlogin',
+          component: Accountlogin
+        },
+        {
+          path: 'phonelogin',
+          component: Phonelogin
+        }
+      ],
+
+    },
+    {
+      path: '/mycenter',
+      component: MyCenter,
+    },
+    {
+      path: '/myorder',
+      component: MyOrder
+    },
+    {
+      path: '/register',
+      component: Register,
     },
     {
       path: '/',

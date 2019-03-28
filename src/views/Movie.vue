@@ -17,7 +17,7 @@
 			nowplaying,
 			comingsoon
 		}
-	}
+	};
 </script>
 <style lang="scss" scoped>
 	*{
