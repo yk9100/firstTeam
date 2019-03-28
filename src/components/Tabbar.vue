@@ -25,6 +25,7 @@
 		width: 100%;
 		height:48px;
 		background: white;
+		z-index: 2;
 		ul{
 			list-style:none;
 			width: 100%;
