@@ -5,12 +5,18 @@ import Movie from './views/Movie.vue'
 // movie 二级路由
 import nowplaying from './components/nowplaying'
 import comingsoon from './components/comingsoon'
+<<<<<<< HEAD
+=======
+// 从nowplaying跳转至影院列表
+import Theaters from './views/Theaters.vue'
+>>>>>>> refs/remotes/origin/master
 
 import Cinema from './views/Cinema.vue'
 
 import Register from './views/Register.vue'
 
 import Center from './views/Center.vue'
+import Show from './views/Show.vue'
 
 import MyCenter from './views/MyCenter.vue'
 
@@ -28,9 +34,10 @@ Vue.use(Router)
 export default new Router({
   routes: [
     {
-      path: '/movie',
+      path: '/Movie',
       // name: 'home',
       component: Movie,
+      redirect: '/Movie/nowplaying',
       children: [
         {
           path: 'nowplaying',
@@ -43,12 +50,17 @@ export default new Router({
       ]
     },
     {
-      path: '/cinema',
+      path: '/Theaters/:filmId',
+      // name: 'home',
+      component: Theaters,
+    }, 
+    {
+      path: '/Cinema',
       // name: 'home',
       component: Cinema
     },
     {
-      path: '/center',
+      path: '/Center',
       // name: 'home',
       redirect: '/center/accountlogin',
       component: Center,
@@ -82,6 +94,10 @@ export default new Router({
       component: Movie,
       redirect: '/Movie/nowplaying'
     },  
+    {
+      path: '/show',
+      component: Show,
+    }
 
     // {
     //   path: '/about',
