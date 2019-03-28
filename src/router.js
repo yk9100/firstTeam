@@ -10,6 +10,7 @@ import Theaters from './views/Theaters.vue'
 
 import Cinema from './views/Cinema.vue'
 import Center from './views/Center.vue'
+import Show from './views/Show.vue'
 
 Vue.use(Router)
 
@@ -52,6 +53,10 @@ export default new Router({
       component: Movie,
       redirect: '/Movie/nowplaying'
     },  
+    {
+      path: '/show',
+      component: Show,
+    }
 
     // {
     //   path: '/about',
