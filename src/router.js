@@ -6,53 +6,54 @@ import Movie from './views/Movie.vue'
 import nowplaying from './components/nowplaying'
 import comingsoon from './components/comingsoon'
 
-
 import Cinema from './views/Cinema.vue'
 import Center from './views/Center.vue'
 
+import Detail from './components/comingsoon/Detail'
 Vue.use(Router)
 
 export default new Router({
-  routes: [
-    {
-      path: '/movie',
-      // name: 'home',
-      component: Movie,
-      children: [
-        {
-          path: 'nowplaying',
-          component: nowplaying
+    routes: [{
+            path: '/movie',
+            // name: 'home',
+            component: Movie,
+            children: [{
+                    path: 'nowplaying',
+                    component: nowplaying
+                },
+                {
+                    path: 'comingsoon',
+                    component: comingsoon
+                }
+            ]
         },
         {
-          path: 'comingsoon',
-          component: comingsoon
+            path: '/cinema',
+            // name: 'home',
+            component: Cinema
+        },
+        {
+            path: '/center',
+            // name: 'home',
+            component: Center
+        },
+        {
+            path: '/',
+            // name: 'home',
+            component: Movie,
+            redirect: '/Movie/nowplaying'
+        },
+        {
+            path: '/Detail/:id',
+            component: Detail
         }
-      ]
-    },
-    {
-      path: '/cinema',
-      // name: 'home',
-      component: Cinema
-    },
-    {
-      path: '/center',
-      // name: 'home',
-      component: Center
-    },
-    {
-      path: '/',
-      // name: 'home',
-      component: Movie,
-      redirect: '/Movie/nowplaying'
-    },  
-
-    // {
-    //   path: '/about',
-    //   name: 'about',
-    //   // route level code-splitting
-    //   // this generates a separate chunk (about.[hash].js) for this route
-    //   // which is lazy-loaded when the route is visited.
-    //   component: () => import(/* webpackChunkName: "about" */ './views/About.vue')
-    // }
-  ]
+        // {
+        //   path: '/about',
+        //   name: 'about',
+        //   // route level code-splitting
+        //   // this generates a separate chunk (about.[hash].js) for this route
+        //   // which is lazy-loaded when the route is visited.
+        //   component: () => import(/* webpackChunkName: "about" */ './views/About.vue')
+        // }
+    ]
 })

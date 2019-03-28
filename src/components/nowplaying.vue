@@ -30,12 +30,9 @@
 
     mounted () {
       axios.get('/ajax/movieOnInfoList?token=').then((res)=>{
-<<<<<<< HEAD
           // console.log(res.data.movieList)
-=======
-          console.log(res.data.movieList)
+          // console.log(res.data.movieList)
           this.filmList = res.data.movieList
->>>>>>> refs/remotes/origin/master
       })
     }
   }
