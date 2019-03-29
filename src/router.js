@@ -5,11 +5,9 @@ import Movie from './views/Movie.vue'
 // movie 二级路由
 import nowplaying from './components/nowplaying'
 import comingsoon from './components/comingsoon'
-<<<<<<< HEAD
-=======
+
 // 从nowplaying跳转至影院列表
 import Theaters from './views/Theaters.vue'
->>>>>>> refs/remotes/origin/master
 
 import Cinema from './views/Cinema.vue'
 
@@ -21,6 +19,9 @@ import Show from './views/Show.vue'
 import MyCenter from './views/MyCenter.vue'
 
 import MyOrder from './views/MyOrder.vue'
+
+import Passport from './views/Passport.vue'
+
 //Center 二级路由
 import Accountlogin from './components/AccountLogin.vue'
 import Phonelogin from './components/PhoneLogin.vue'
@@ -74,7 +75,6 @@ export default new Router({
           component: Phonelogin
         }
       ],
-
     },
     {
       path: '/mycenter',
@@ -87,6 +87,10 @@ export default new Router({
     {
       path: '/register',
       component: Register,
+    },
+    {
+      path: '/passport',
+      component: Passport
     },
     {
       path: '/',

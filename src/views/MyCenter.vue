@@ -49,7 +49,7 @@
 	import 'vant/lib/index.css';
 
 	Vue.use(Vant);
-
+	
 	export default {
 
 

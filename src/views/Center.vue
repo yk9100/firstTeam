@@ -18,11 +18,11 @@
 		<!-- input -->
 		<router-view ></router-view>
 		<!-- button -->
-		<van-button size="large">登录</van-button>
+		<van-button size="large" :class=" $store.state.isButtonShow ? 'show' : '' " class="login-button">登录</van-button>
 		<!-- input信息 -->
 		<div id="login-infor">
 			<a href="#/register">立即注册</a>
-			<a href="javascript:;">找回密码</a>			
+			<a href="#/passport">找回密码</a>			
 		</div>
 		<!-- 页脚 -->
 		<p id="copy-right">
@@ -45,6 +45,10 @@
 </script>
 
 <style lang="scss" scoped>
+	.show {
+		background: #DF2D2D !important;
+		color: #fff !important;
+	}
 	.active {
 		color: #DF2D2D;
 		border-bottom: 4px solid #DF2D2D;
@@ -75,10 +79,6 @@
 				line-height: 50px;
 				color: #fff;
 			}
-		};
-		a:hover {
-			opacity: .1;
-			background: black;
 		}
 		p {
 			flex: 1;
@@ -111,11 +111,11 @@
 			font-size: 14px;
 		}	
 	}
-	button {
+	.login-button {
 		width: 95%;
 		height: 50px;
-		background: #DF2D2D;
-		color: #fff;
+		background: #dcdcdc;
+		color: #999999;
 		font-size: 20px;
 		margin-left: 10px;
 		margin-top: 13px;
