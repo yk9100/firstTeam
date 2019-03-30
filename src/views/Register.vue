@@ -117,12 +117,15 @@
 	#phonenumber {
 		height: 40px;
 		margin-top: 15px;
-		border: 1px solid #ccc;
+		// border-bottom: 1px solid #ccc;
 		text-align: center;
 		input {
 			width: 95%;
 			height: 40px;
-			border:0;
+			border-top: 0;
+			border-left: 0;
+			border-right: 0;
+			border-bottom: 1px solid #ccc;
 		}
 	}
 
