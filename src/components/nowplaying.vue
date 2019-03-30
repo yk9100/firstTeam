@@ -55,19 +55,15 @@
 
     mounted () {
       axios.get('/ajax/movieOnInfoList?token=').then((res)=>{
-<<<<<<< HEAD
-          // console.log(res.data.movieList)
-          // console.log(res.data.movieList)
-=======
-          console.log(res.data.movieList)
->>>>>>> refs/remotes/origin/master
+
+
+
           this.filmList = res.data.movieList
       })
     }
   }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
   *{
     font-size: 14px;

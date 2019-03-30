@@ -1,5 +1,5 @@
 <template>
-<<<<<<< HEAD
+
   <div>
 		<p class="p1">近期最受期待</p>
 			<div class="swiper-container">
@@ -85,15 +85,15 @@
 					</div>
 				</li>
 			</ul>
-=======
-	<div class="comingsoon">
+
+	<div class="comingsoon"></div>
 		
->>>>>>> refs/remotes/origin/master
+
 	</div>
 </template>
 
 <script>
-<<<<<<< HEAD
+
   import Vue from 'vue'
 	import axios from 'axios'
 	import Swiper from 'swiper'
@@ -165,15 +165,11 @@
 			})
 		}
   }
-=======
-	export default{
 
-	}
->>>>>>> refs/remotes/origin/master
 </script>
 
 <style scoped lang="scss">
-<<<<<<< HEAD
+
 *{
 	padding: 0;
 	margin: 0;
@@ -202,8 +198,8 @@
 				height: 125px;
 				top:-1px;
 				left:0;
-				// background-image: -webkit-linear-gradient(top,rbga(77,77,77,0), #000);
-				// background-image: linear-gradient(-180deg,rbga(77,77,77,0), #000);
+				background-image: -webkit-linear-gradient(top,rbga(77,77,77,0), #000);
+				background-image: linear-gradient(-180deg,rbga(77,77,77,0), #000);
 				background: rgba($color: #000000, $alpha: 0.3)
 			}
 			.span1{
@@ -326,7 +322,4 @@
 			}
 		}
 	}
-=======
-
->>>>>>> refs/remotes/origin/master
 </style>
