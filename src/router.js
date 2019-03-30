@@ -17,11 +17,12 @@ import Center from './views/Center.vue'
 import Show from './views/Show.vue'
 
 import MyCenter from './views/MyCenter.vue'
-
 import MyOrder from './views/MyOrder.vue'
-
 import Passport from './views/Passport.vue'
-
+import MyShop from './views/MyShop.vue'
+import MyCards from './views/MyCards.vue'
+import MyTickets from './views/MyTickets.vue'
+import MovieOnline from './views/MovieOnline.vue'
 //Center 二级路由
 import Accountlogin from './components/AccountLogin.vue'
 import Phonelogin from './components/PhoneLogin.vue'
@@ -91,6 +92,22 @@ export default new Router({
     {
       path: '/passport',
       component: Passport
+    },
+    {
+      path: '/myshop',
+      component: MyShop
+    },
+    {
+      path: '/mytickets',
+      component: MyTickets
+    },
+    {
+      path: '/mycards',
+      component: MyCards,
+    },
+    {
+      path: '/movieonline',
+      component: MovieOnline,
     },
     {
       path: '/',

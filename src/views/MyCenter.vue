@@ -1,7 +1,10 @@
 <template>
 	<div>
 		<header>
+			<div class="hidebox" diabled></div>
 			<span>喵眼电影</span>
+			<div class="hidebox"
+			@click="logout">退出</div>
 		</header>
 
 		<div id="bgc-banner">
@@ -11,11 +14,11 @@
 		<div id="my-order">
 			<span class="order-title">我的订单</span>
 			<div class="lists">
-				<a href="javascript:;" class="lists-one">
+				<a href="#/myorder" class="lists-one">
 					<van-icon name="video" />
 					<p>电影</p>
 				</a>
-				<a href="javascript:;" class="lists-two">
+				<a href="#/myshop" class="lists-two">
 					<van-icon name="shop-collect" />
 					<p>商城</p>
 				</a>
@@ -23,19 +26,19 @@
 		</div>
 
 		<div class="items">
-			<a href="">
+			<a href="#/movieonline">
 				<span>在线观影</span>
 				<van-icon name="arrow" />
 			</a>
 		</div>
 		<div class="items">
-			<a href="">
+			<a href="#/mytickets">
 				<span>优惠劵</span>
 				<van-icon name="arrow" />
 			</a>
 		</div>
 		<div class="items">
-			<a href="">
+			<a href="#/mycards">
 				<span>折扣卡</span>
 				<van-icon name="arrow" />
 			</a>
@@ -51,7 +54,17 @@
 	Vue.use(Vant);
 	
 	export default {
+		data () {
+			return {
 
+			}
+		},
+
+		methods: {
+			logout() {
+				this.$router.push('/movie/nowplaying');
+			}
+		}
 
 	};
 </script>
@@ -72,19 +85,32 @@
 		height: 50px;
 		background: #E64C46;
 		text-align: center;
+		display: flex;
 		span {
+			flex: 1;
+			width: 100%;
 			display: block;
 			height: 50px;
 			line-height: 50px;
 			color: #fff;
 			font-size: 18px;
 		}
+		.hidebox {
+			height: 50px;
+			line-height: 50px;
+			text-align: center;
+			background: #E64C46;
+			font-size: 14px;
+			width: 50px;
+			height: 50px;
+			color: #f3f3f3;
+		}
 	}
 
 	#bgc-banner {
 		width: 100%;
 		height: 150px;
-		background-color: #f03d37;
+		background-color: #E64C46;
 		position: relative;
 	    img {
 	    	border-radius: 50%;

@@ -17,8 +17,6 @@
 		</ul>
 		<!-- input -->
 		<router-view ></router-view>
-		<!-- button -->
-		<van-button size="large" :class=" $store.state.isButtonShow ? 'show' : '' " class="login-button">登录</van-button>
 		<!-- input信息 -->
 		<div id="login-infor">
 			<a href="#/register">立即注册</a>
@@ -39,7 +37,14 @@
 	Vue.use(Vant);
 
 	export default {
+		data () {
+			return {
 
+			}
+		},
+		methods: {
+
+		}
 	};
 
 </script>
@@ -96,7 +101,6 @@
 			background: #DF2D2D; 
 		}
 	}
-	
 	#login-header {
 		width: 100%;
 		height: 40px;
@@ -111,17 +115,6 @@
 			font-size: 14px;
 		}	
 	}
-	.login-button {
-		width: 95%;
-		height: 50px;
-		background: #dcdcdc;
-		color: #999999;
-		font-size: 20px;
-		margin-left: 10px;
-		margin-top: 13px;
-		border-radius: 5px;
-	}
-
 	#login-infor {
 		width: 100%;
 		height: 28px;
