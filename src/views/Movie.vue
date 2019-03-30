@@ -46,6 +46,10 @@
 	.movie{
 		padding-top: 100px;
 	}
+
+	.filmlist{
+		overflow: hidden;
+	}
 	.main-top{
 		position: fixed;
 		top: 0;
