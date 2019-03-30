@@ -119,6 +119,7 @@
 				// this.$router.push(`https://maoyan.com/films/${id}?$from=canary&cityId=65&channelId=4&_v_=yes`)
 			}
 		},
+	
     mounted () {
       axios.get('/ajax/mostExpected?ci=65&limit=10&offset=0&token=').then((res)=>{
 			this.list = res.data.coming

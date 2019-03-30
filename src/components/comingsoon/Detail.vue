@@ -23,7 +23,7 @@
             </ul>
         </div>
         <div class="goupiao">
-            <a href="">特惠购票</a>
+            <a href="#" @click="tiao()">特惠购票</a>
             <div class="hidde" >
                 <span class="content" :class="longer?'maxheight':'minheight'" @click="fuck1()">
                         小提琴家陆松（陈晓 饰）与室内设计师文罂（杜鹃 饰）巴黎邂逅，不打不相识，彼此迷恋越陷越深。爱情之名怂恿着他们为爱再大胆一次，走出各自问题满满的情感关系。仿佛只要现任变前任，幸福就唾手可得。然而前任们也都是战士，文罂的前任郑可（华少 饰）是个理性至极的医生，陆松的前任刘娟（马苏 饰）则在情感社区开启了喋喋不休的骂战，是继续坚持对爱的信仰，还是选择放下与原谅重新开始？现代都市情感危机在北京与巴黎街头上演。越是深爱的，往往也正是痛苦的源头，爱情，像是影子，抓不住却也离不开，如影随心……
@@ -178,7 +178,7 @@
             <h3>相关电影</h3>
             <div class="swiper-container">
                 <div class="swiper-wrapper">
-                  <div class="swiper-slide" v-for="data in other">
+                  <div class="swiper-slide" v-for="data in other" :key="data.id" @click="detail1(data.id)">
                       <img :src="fuck2(data.img)" alt="">
                   </div>
                 </div>
@@ -307,6 +307,12 @@
             },
             fuck2(data) {
                 return data.replace('w.h', '128.180')
+            },
+            detail1(id) {
+                this.$router.push(`/Detail/${id}`)
+            },
+            tiao(filmid) {
+                this.$router.push(`/Theaters/1206824`)
             }
         }
     }
