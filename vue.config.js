@@ -4,6 +4,10 @@ module.exports = {
 			'/ajax': {
 				target: 'http://m.maoyan.com',
 				changeOrigin: true,
+			},
+			'/deal': {
+				target: 'http://m.maoyan.com',
+				changeOrigin: true,
 			}
 		}
 	}

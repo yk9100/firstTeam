@@ -11,6 +11,9 @@ import Cinema from './views/Cinema.vue'
 import Center from './views/Center.vue'
 import Show from './views/Show.vue'
 
+//购物车
+import Cart from './views/Cart.vue'
+
 Vue.use(Router)
 
 export default new Router({
@@ -49,6 +52,10 @@ export default new Router({
     {
       path: '/show',
       component: Show,
+    },
+    {
+      path: '/cart',
+      component: Cart
     }
 
     // {

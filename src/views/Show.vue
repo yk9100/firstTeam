@@ -21,7 +21,9 @@
    			 
 		</div>
 		<section>
-			<h2 >{{currentData.nm}}<span>{{currentData.sc}}分</span></h2>
+			<h2 >{{currentData.nm}}<span v-if="currentData.sc!=='0.0'">{{currentData.sc}}分</span>
+			<span v-else>暂无评分</span>
+			</h2>
 			<p>{{currentData.desc}}</p>
 		</section>
 		<article v-for="data in currentData.shows">
@@ -46,7 +48,7 @@
 		</article>
 		<main>
 			<h2>影院超值套餐</h2>
-			<div v-for="data in mydata.dealList.dealList">
+			<div v-for="data in mydata.dealList.dealList" @click="toCart(data)">
 				<img :src="rep2(data.imageUrl)" alt="" style="width:92px; height:92px ">
 				<aside>
 					<h3><span>{{ren[data.recommendPersonNum]}}</span>{{data.title}}</h3>
@@ -85,6 +87,10 @@
 				this.isCurrent = index;
 				console.log(data);
 				this.currentData = data
+			},
+			toCart (data) {
+				var mydata = data.recommendPersonNum + ',' + data.title + ','+ data.price + ',' + data.imageUrl;
+				this.$router.push(`/cart?mydata=${mydata}`);
 			}
 		},
 		mounted () {

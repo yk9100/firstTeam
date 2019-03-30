@@ -25,11 +25,11 @@
 		width: 100%;
 		height:48px;
 		background: white;
-<<<<<<< HEAD
-		z-index: 2;
-=======
+
+
+
 		z-index: 999;
->>>>>>> refs/remotes/origin/master
+ 
 		ul{
 			list-style:none;
 			width: 100%;
