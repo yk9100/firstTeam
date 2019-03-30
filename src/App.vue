@@ -10,7 +10,7 @@
   	components: {
   			tabbar,
   		}
-  }
+  };
 </script>
 <style lang="scss">
 	*{

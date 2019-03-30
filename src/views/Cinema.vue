@@ -37,7 +37,7 @@
 				this.addrlist = res.data.cinemas;
 			});
 		}
-	}
+	};
 </script>
 <style lang="scss" scoped>
 	h1{
