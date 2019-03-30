@@ -1,5 +1,4 @@
 <template>
-
   <div>
 		<p class="p1">近期最受期待</p>
 			<div class="swiper-container">
@@ -27,7 +26,7 @@
 
 			<ul class="ul1">
 				<p v-if="nextList.length" class="p_top">{{nextList[0].comingTitle}}</p>
-				<li v-for="item in nextList" :key="item.id">
+				<li v-for="item in nextList" :key="item.id" @click="detail(item.id)">
 					<img :src="item.img |newImg" alt="">
 					<div class="rightBox">
 						<p class="nm">{{item.nm}}</p>
@@ -43,7 +42,7 @@
 
 			<ul class="ul1">
 				<p v-if="nextList2.length" class="p_top">{{nextList2[0].comingTitle}}</p>
-				<li v-for="item in nextList2" :key="item.id">
+				<li v-for="item in nextList2" :key="item.id" @click="detail(item.id)">
 					<img :src="item.img |newImg" alt="">
 					<div class="rightBox">
 						<p class="nm">{{item.nm}}</p>
@@ -58,7 +57,7 @@
 
 			<ul class="ul1">
 				<p v-if="nextList3.length" class="p_top">{{nextList3[0].comingTitle}}</p>
-				<li v-for="item in nextList3" :key="item.id">
+				<li v-for="item in nextList3" :key="item.id" @click="detail(item.id)">
 					<img :src="item.img |newImg" alt="">
 					<div class="rightBox">
 						<p class="nm">{{item.nm}}</p>
@@ -73,7 +72,7 @@
 
 			<ul class="ul1">
 				<p v-if="nextList4.length" class="p_top">{{nextList4[0].comingTitle}}</p>
-				<li v-for="item in nextList4" :key="item.id">
+				<li v-for="item in nextList4" :key="item.id" @click="detail(item.id)">
 					<img :src="item.img |newImg" alt="">
 					<div class="rightBox">
 						<p class="nm">{{item.nm}}</p>
@@ -85,10 +84,6 @@
 					</div>
 				</li>
 			</ul>
-
-	<div class="comingsoon"></div>
-		
-
 	</div>
 </template>
 
@@ -121,6 +116,7 @@
     methods:{
 			detail(id){
 				this.$router.push(`/Detail/${id}`)
+				// this.$router.push(`https://maoyan.com/films/${id}?$from=canary&cityId=65&channelId=4&_v_=yes`)
 			}
 		},
     mounted () {
@@ -128,9 +124,8 @@
 			this.list = res.data.coming
 			this.$nextTick(()=>{
 				var swiper = new Swiper('.swiper-container', {
-						slidesPerView: 4,
-						spaceBetween: 35,
-						freeMode: true,
+						slidesPerView: 'auto',
+						// spaceBetween: 5,
 						pagination: {
 							el: '.swiper-pagination',
 							clickable: true,
@@ -166,6 +161,8 @@
 		}
   }
 
+
+
 </script>
 
 <style scoped lang="scss">
@@ -174,21 +171,27 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
-}
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+
+
 .p1{
 	font-size: 14px;
 }
 .swiper-container{
 	height:186px;
 	width:100%;
-	margin-left:20px;
-	display: flex;
+	// margin-left:20px;
+	// display: flex;
+	// overflow: hidden;......
 	.swiper-wrapper{
+		
 		width:100%;
 		.swiper-slide{
-			position: relative;
+			width: 108px;
+			padding-left:20px;
+			// position: relative;
 			img{
-				width: 90px;
+				width: 100%;
 				height: 125px;
 			}
 
@@ -197,15 +200,15 @@
 				width: 90px;
 				height: 125px;
 				top:-1px;
-				left:0;
-				background-image: -webkit-linear-gradient(top,rbga(77,77,77,0), #000);
-				background-image: linear-gradient(-180deg,rbga(77,77,77,0), #000);
+				left:19px;
+				// background-image: -webkit-linear-gradient(top,rbga(77,77,77,0), #000);
+				// background-image: linear-gradient(-180deg,rbga(77,77,77,0), #000);
 				background: rgba($color: #000000, $alpha: 0.3)
 			}
 			.span1{
 				position: absolute;
 				font-weight: bold;
-				left:4px;
+				left:22px;
 				top:108px;
 				font-size: 8px;
 				color:#faaf00;
@@ -264,10 +267,10 @@
 				z-index: -1;
 				height: 115px;
 				line-height:26px;
-				// background:#faaf00;
-				width:74%;
+				width:72%;
 				float: right;
 				margin-right:20px;
+				padding-left:5px;
 				border-bottom:1px solid #ccc;
 				.nm{
 					font-weight: bold;
@@ -322,4 +325,7 @@
 			}
 		}
 	}
+
+
+
 </style>
