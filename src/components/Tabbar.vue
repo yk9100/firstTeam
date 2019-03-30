@@ -1,9 +1,9 @@
 <template>
 	<footer>
 		<ul>
-			<router-link to="/movie" activeClass="active" tag="li">电影</router-link>
-			<router-link to="/cinema" activeClass="active" tag="li">影院</router-link>
-			<router-link to="/center" activeClass="active" tag="li">我的</router-link>
+			<router-link to="/Movie" activeClass="active" tag="li">电影</router-link>
+			<router-link to="/Cinema" activeClass="active" tag="li">影院</router-link>
+			<router-link to="/Center" activeClass="active" tag="li">我的</router-link>
 		</ul>
 
 	</footer>
@@ -11,7 +11,7 @@
 <script>
 	export default {
 
-	}
+	};
 </script>
 <style lang="scss" scoped>
 	.active{
@@ -25,11 +25,7 @@
 		width: 100%;
 		height:48px;
 		background: white;
-
-
-
-		z-index: 999;
- 
+		z-index: 999; 
 		ul{
 			list-style:none;
 			width: 100%;

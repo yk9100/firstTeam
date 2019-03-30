@@ -1,0 +1,2842 @@
+{
+  "orderlist": [
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/d414df29b364e010976c4be97d5ee907290840.jpg",
+        "id": 341624,
+        "eggsDesc": "",
+        "name": "狂暴巨兽"
+      },
+      "show": {
+        "startTime": 1523692800000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2018-04-14 周五 16:00"
+      },
+      "id": 3075213258,
+      "order": {
+        "uniqueStatus": 3,
+        "payLimitMin": 14,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 51.8,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1523677852000,
+        "payTime": 1523677903000,
+        "fixTime": 1523677904000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": true
+        },
+        "id": 12400,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "博纳国际影城(亿合城店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/3075213258/refund?_v_=yes&cinemaId=12400",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "I Do厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "7",
+            "columnId": "10"
+          },
+          {
+            "type": "N",
+            "rowId": "7",
+            "columnId": "09"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "2018041469238847",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "2018041469238847"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p1.meituan.net/w.h/movie/821487d6ba33393cb1627fc098e297c3371603.jpg",
+        "id": 341178,
+        "eggsDesc": "",
+        "name": "头号玩家"
+      },
+      "show": {
+        "startTime": 1522564800000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2018-04-01 周六 14:40"
+      },
+      "id": 3055543839,
+      "order": {
+        "uniqueStatus": 3,
+        "payLimitMin": 14,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 58,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1522543111000,
+        "payTime": 1522543154000,
+        "fixTime": 1522543156000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": true
+        },
+        "id": 12400,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "博纳国际影城(亿合城店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/3055543839/refund?_v_=yes&cinemaId=12400",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "I Do厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "6",
+            "columnId": "12"
+          },
+          {
+            "type": "N",
+            "rowId": "6",
+            "columnId": "11"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "2018040114216551",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "2018040114216551"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p1.meituan.net/w.h/movie/b550ee8f2d4192015073fc878b141161336659.jpg",
+        "id": 344929,
+        "eggsDesc": "片尾有1个彩蛋，不要错过哦",
+        "name": "前任3：再见前任"
+      },
+      "show": {
+        "startTime": 1515307800000,
+        "dim": "2D",
+        "language": "国语",
+        "showTime": "2018-01-07 周六 14:50"
+      },
+      "id": 1709720589,
+      "order": {
+        "uniqueStatus": 3,
+        "payLimitMin": 10,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 67,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1515297491000,
+        "payTime": 1515297519000,
+        "fixTime": 1515297535000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 1495,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达国际影城(华南店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1709720589/refund?_v_=yes&cinemaId=1495",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "2号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "9",
+            "columnId": "12"
+          },
+          {
+            "type": "N",
+            "rowId": "9",
+            "columnId": "13"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "99209100012014",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "99209100012014"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/7797d45caf40fcfcdc0f88378850e2441016690.jpg",
+        "id": 248075,
+        "eggsDesc": "片尾有1个彩蛋，不要错过哦",
+        "name": "追捕"
+      },
+      "show": {
+        "startTime": 1511523000000,
+        "dim": "2D",
+        "language": "国语",
+        "showTime": "2017-11-24 周四 19:30"
+      },
+      "id": 1613419353,
+      "order": {
+        "uniqueStatus": 3,
+        "payLimitMin": 10,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 50.8,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1511495899000,
+        "payTime": 1511495932000,
+        "fixTime": 1511495948000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 24114,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达影城(甘井子万达广场店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1613419353/refund?_v_=yes&cinemaId=24114",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "1号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "8",
+            "columnId": "7"
+          },
+          {
+            "type": "N",
+            "rowId": "8",
+            "columnId": "6"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "99600000195631",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "99600000195631"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p1.meituan.net/w.h/movie/3ce1b4446e6f204241d136986400e5b46376854.jpg",
+        "id": 249894,
+        "eggsDesc": "片尾有2个彩蛋，不要错过哦",
+        "name": "雷神3：诸神黄昏"
+      },
+      "show": {
+        "startTime": 1509778200000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2017-11-04 周五 14:50"
+      },
+      "id": 1588100681,
+      "order": {
+        "uniqueStatus": 3,
+        "payLimitMin": 10,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 77,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1509748839000,
+        "payTime": 1509748886000,
+        "fixTime": 1509748902000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 1501,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达国际影城(华府店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1588100681/refund?_v_=yes&cinemaId=1501",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "6号厅-6FL影厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "14"
+          },
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "13"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "99602700329610",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "99602700329610"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p1.meituan.net/w.h/movie/4871b40136f0dbb316605ed3ec4333db497541.jpg",
+        "id": 334620,
+        "eggsDesc": "片尾有2个彩蛋，不要错过哦",
+        "name": "蜘蛛侠：英雄归来"
+      },
+      "show": {
+        "startTime": 1504860600000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2017-09-08 周四 16:50"
+      },
+      "id": 1487283615,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 14,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 51.8,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1504859147000,
+        "payTime": 1504859184000,
+        "fixTime": 1504859185000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 2620,
+        "takePlace": "影院内猫眼取票机",
+        "allowRefund": 0,
+        "name": "百丽宫影城(市府恒隆广场店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1487283615/refund?_v_=yes&cinemaId=2620",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "3号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "K",
+            "columnId": "7"
+          },
+          {
+            "type": "N",
+            "rowId": "K",
+            "columnId": "8"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "序列号",
+        "originId": "966918",
+        "qrcode": "966918|485536",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "485536"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/2328ab4f26258506955f70ccd9120c14367146.jpg",
+        "id": 344264,
+        "eggsDesc": "片尾有1个彩蛋，不要错过哦",
+        "name": "战狼2"
+      },
+      "show": {
+        "startTime": 1501160100000,
+        "dim": "3D",
+        "language": "国语",
+        "showTime": "2017-07-27 周三 20:55"
+      },
+      "id": 1384335555,
+      "order": {
+        "uniqueStatus": 3,
+        "payLimitMin": 10,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 66.8,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1501158314000,
+        "payTime": 1501158379000,
+        "fixTime": 1501158395000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 1495,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达国际影城(华南店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1384335555/refund?_v_=yes&cinemaId=1495",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "5号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "5",
+            "columnId": "16"
+          },
+          {
+            "type": "N",
+            "rowId": "5",
+            "columnId": "15"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "99647700205009",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "99647700205009"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/b15490a94dbdac2a95176333142f3b725358875.jpg",
+        "id": 246012,
+        "eggsDesc": "片尾有1个彩蛋，不要错过哦",
+        "name": "加勒比海盗5：死无对证"
+      },
+      "show": {
+        "startTime": 1496475600000,
+        "dim": "3D",
+        "language": "国语",
+        "showTime": "2017-06-03 周五 15:40"
+      },
+      "id": 1317473742,
+      "order": {
+        "uniqueStatus": 3,
+        "payLimitMin": 10,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 66,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1496473508000,
+        "payTime": 1496473525000,
+        "fixTime": 1496473541000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 1495,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达国际影城(华南店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1317473742/refund?_v_=yes&cinemaId=1495",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "3号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "11"
+          },
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "12"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "99910800349394",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "99910800349394"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/aeb864fa21d578d845b9cefc056e40cb2874891.jpg",
+        "id": 588362,
+        "eggsDesc": "",
+        "name": "摔跤吧！爸爸"
+      },
+      "show": {
+        "startTime": 1495353000000,
+        "dim": "2D",
+        "language": "中文",
+        "showTime": "2017-05-21 周六 15:50"
+      },
+      "id": 1300440001,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 14,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 65.8,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1495350277000,
+        "payTime": 1495350304000,
+        "fixTime": 1495350320000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 13025,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "CGV星聚汇影城(柏威年店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1300440001/refund?_v_=yes&cinemaId=13025",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "6厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "8",
+            "columnId": "4"
+          },
+          {
+            "type": "N",
+            "rowId": "8",
+            "columnId": "5"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "08228003",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "08228003"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/02dee08ca4cd10b99a80986eef23d5be419798.jpg",
+        "id": 248683,
+        "eggsDesc": "片尾有2个彩蛋，不要错过哦",
+        "name": "银河护卫队2"
+      },
+      "show": {
+        "startTime": 1494060900000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2017-05-06 周五 16:55"
+      },
+      "id": 1284416734,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 14,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 57.8,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1494057145000,
+        "payTime": 1494057167000,
+        "fixTime": 1494057169000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": true
+        },
+        "id": 12400,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "博纳国际影城(亿合城店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1284416734/refund?_v_=yes&cinemaId=12400",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "7号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "9",
+            "columnId": "14"
+          },
+          {
+            "type": "N",
+            "rowId": "9",
+            "columnId": "15"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "2017050669389259",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "2017050669389259"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/eaee349633b45cebf46785d6662a5e7b347918.jpg",
+        "id": 346103,
+        "eggsDesc": "",
+        "name": "拆弹·专家"
+      },
+      "show": {
+        "startTime": 1493545200000,
+        "dim": "2D",
+        "language": "国语",
+        "showTime": "2017-04-30 周六 17:40"
+      },
+      "id": 1276680431,
+      "order": {
+        "uniqueStatus": 3,
+        "payLimitMin": 10,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 68,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1493541975000,
+        "payTime": 1493541997000,
+        "fixTime": 1493542013000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 1495,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达国际影城(华南店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1276680431/refund?_v_=yes&cinemaId=1495",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "6号厅4K厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "7"
+          },
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "6"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "99026000062501",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "99026000062501"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p1.meituan.net/w.h/movie/a7002208a13778570778ad26495cabb34541177.jpg",
+        "id": 248700,
+        "eggsDesc": "",
+        "name": "速度与激情8"
+      },
+      "show": {
+        "startTime": 1492332300000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2017-04-16 周六 16:45"
+      },
+      "id": 1257226271,
+      "order": {
+        "uniqueStatus": 3,
+        "payLimitMin": 10,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 72,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1492326056000,
+        "payTime": 1492326088000,
+        "fixTime": 1492326105000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 1495,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达国际影城(华南店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1257226271/refund?_v_=yes&cinemaId=1495",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "5号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "16"
+          },
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "15"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "99007500071340",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "99007500071340"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/375cec0039845c49ccc87a8bd62b77f11385180.jpg",
+        "id": 249898,
+        "eggsDesc": "片尾有2个彩蛋，不要错过哦",
+        "name": "金刚：骷髅岛"
+      },
+      "show": {
+        "startTime": 1491205200000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2017-04-03 周日 15:40"
+      },
+      "id": 1204939143,
+      "order": {
+        "uniqueStatus": 3,
+        "payLimitMin": 10,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 55.8,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1491202212000,
+        "payTime": 1491202247000,
+        "fixTime": 1491202263000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 1501,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达国际影城(华府店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1204939143/refund?_v_=yes&cinemaId=1501",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "6号厅-6FL影厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "9"
+          },
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "8"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "99198000094838",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "99198000094838"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p1.meituan.net/w.h/movie/2287976dabcd05b5dc8eaafa8a68af9e4529725.jpg",
+        "id": 247658,
+        "eggsDesc": "",
+        "name": "美女与野兽"
+      },
+      "show": {
+        "startTime": 1489914000000,
+        "dim": "3D",
+        "language": "国语",
+        "showTime": "2017-03-19 周六 17:00"
+      },
+      "id": 1159413333,
+      "order": {
+        "uniqueStatus": 3,
+        "payLimitMin": 10,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 66,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1489910546000,
+        "payTime": 1489910561000,
+        "fixTime": 1489910578000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 1501,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达国际影城(华府店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1159413333/refund?_v_=yes&cinemaId=1501",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "4号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "8",
+            "columnId": "12"
+          },
+          {
+            "type": "N",
+            "rowId": "8",
+            "columnId": "11"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "99777500329669",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "99777500329669"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/45f6dee8bf180329a2e170392e3e0bfd4031519.jpg",
+        "id": 334590,
+        "eggsDesc": "",
+        "name": "极限特工：终极回归"
+      },
+      "show": {
+        "startTime": 1486891500000,
+        "dim": "巨幕3D",
+        "language": "英语",
+        "showTime": "2017-02-12 周六 17:25"
+      },
+      "id": 1120053695,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 14,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 88,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1486887908000,
+        "payTime": 1486887936000,
+        "fixTime": 1486887938000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": true
+        },
+        "id": 12400,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "博纳国际影城(亿合城店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1120053695/refund?_v_=yes&cinemaId=12400",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "中国巨幕厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "12",
+            "columnId": "05"
+          },
+          {
+            "type": "N",
+            "rowId": "12",
+            "columnId": "04"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "2017021269848588",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "2017021269848588"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/9654e93e59cd1cec269d9078d9cf4b99289750.jpg",
+        "id": 1170255,
+        "eggsDesc": "片尾有1个彩蛋，不要错过哦",
+        "name": "乘风破浪"
+      },
+      "show": {
+        "startTime": 1486380900000,
+        "dim": "2D",
+        "language": "国语",
+        "showTime": "2017-02-06 周日 19:35"
+      },
+      "id": 1110093159,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 14,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 66,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1486379500000,
+        "payTime": 1486379528000,
+        "fixTime": 1486379529000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": true
+        },
+        "id": 12680,
+        "takePlace": "影院内猫眼取票机",
+        "allowRefund": 1,
+        "name": "米高梅国际影城(高新店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1110093159/refund?_v_=yes&cinemaId=12680",
+        "refundProgress": 0,
+        "notAllowRefundReason": "您的订单已取票，无法退款",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "6楼1厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "9",
+            "columnId": "11"
+          },
+          {
+            "type": "N",
+            "rowId": "9",
+            "columnId": "10"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "序列号",
+        "originId": "905952",
+        "qrcode": "905952|637956",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "637956"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/9654e93e59cd1cec269d9078d9cf4b99289750.jpg",
+        "id": 1170255,
+        "eggsDesc": "片尾有1个彩蛋，不要错过哦",
+        "name": "乘风破浪"
+      },
+      "show": {
+        "startTime": 1486030800000,
+        "dim": "2D",
+        "language": "国语",
+        "showTime": "2017-02-02 周三 18:20"
+      },
+      "id": 1099602485,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 14,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 78,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1486019310000,
+        "payTime": 1486019355000,
+        "fixTime": 1486019357000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": true
+        },
+        "id": 12400,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "博纳国际影城(亿合城店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1099602485/refund?_v_=yes&cinemaId=12400",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "7号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "7",
+            "columnId": "10"
+          },
+          {
+            "type": "N",
+            "rowId": "7",
+            "columnId": "11"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "2017020242458515",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "2017020242458515"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/9aa9aa1adde18a6bbdbb1a26e20b10882436337.jpg",
+        "id": 246267,
+        "eggsDesc": "",
+        "name": "长城"
+      },
+      "show": {
+        "startTime": 1481889600000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2016-12-16 周四 20:00"
+      },
+      "id": 1036468559,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 10,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 55.8,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1481865228000,
+        "payTime": 1481865289000,
+        "fixTime": 1481865291000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 1503,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达国际影城(和平店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1036468559/refund?_v_=yes&cinemaId=1503",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "2号熊军厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "11",
+            "columnId": "18"
+          },
+          {
+            "type": "N",
+            "rowId": "11",
+            "columnId": "19"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "51060393949149",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "51060393949149"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/c18116a9556080b77710169033e631ab478994.jpg",
+        "id": 246124,
+        "eggsDesc": "片尾有1个彩蛋，不要错过哦",
+        "name": "奇异博士"
+      },
+      "show": {
+        "startTime": 1478259600000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2016-11-04 周四 19:40"
+      },
+      "id": 1002628842,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 10,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 65.8,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1478235611000,
+        "payTime": 1478235629000,
+        "fixTime": 1478235632000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 1503,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达国际影城(和平店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/1002628842/refund?_v_=yes&cinemaId=1503",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "3号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "13"
+          },
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "14"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "52523252133615",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "52523252133615"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/7a261ddfcb125b6a3f734bb6735914f25426575.jpg",
+        "id": 338443,
+        "eggsDesc": "",
+        "name": "机械师2：复活"
+      },
+      "show": {
+        "startTime": 1477917300000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2016-10-31 周日 20:35"
+      },
+      "id": 723053281,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 14,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 56,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1477912430000,
+        "payTime": 1477912482000,
+        "fixTime": 1477912483000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 15649,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "百丽宫影城(恒隆广场店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/723053281/refund?_v_=yes&cinemaId=15649",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "3号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "K",
+            "columnId": "9"
+          },
+          {
+            "type": "N",
+            "rowId": "K",
+            "columnId": "8"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "序列号",
+        "originId": "589248",
+        "qrcode": "",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "791392"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/976f86a9726f9e3290a86ea85b92bf16154477.jpg",
+        "id": 248911,
+        "eggsDesc": "",
+        "name": "但丁密码"
+      },
+      "show": {
+        "startTime": 1477810800000,
+        "dim": "2D",
+        "language": "英语",
+        "showTime": "2016-10-30 周六 15:00"
+      },
+      "id": 722529273,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 10,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 76,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1477810678000,
+        "payTime": 1477810705000,
+        "fixTime": 1477810707000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 12380,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达国际影城(港汇店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/722529273/refund?_v_=yes&cinemaId=12380",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "XLAND杜比全景声",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "12",
+            "columnId": "6"
+          },
+          {
+            "type": "N",
+            "rowId": "12",
+            "columnId": "5"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "53486129528353",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "53486129528353"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/8f8efcd7a8c3dbcbe13fe2cd855ea6a42750455.jpg",
+        "id": 338391,
+        "eggsDesc": "",
+        "name": "湄公河行动"
+      },
+      "show": {
+        "startTime": 1475477100000,
+        "dim": "2D",
+        "language": "国语",
+        "showTime": "2016-10-03 周日 14:45"
+      },
+      "id": 703506309,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 14,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 68,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1475471891000,
+        "payTime": 1475471952000,
+        "fixTime": 1475471954000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": true
+        },
+        "id": 12400,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "博纳国际影城(亿合城店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/703506309/refund?_v_=yes&cinemaId=12400",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "6号儿童厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "6",
+            "columnId": "14"
+          },
+          {
+            "type": "N",
+            "rowId": "6",
+            "columnId": "15"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "2016100343450987",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "2016100343450987"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p1.meituan.net/w.h/movie/0b3708b5f6c82f2c30fd341723f176ed1413054.jpeg",
+        "id": 249875,
+        "eggsDesc": "",
+        "name": "谍影重重5"
+      },
+      "show": {
+        "startTime": 1472289300000,
+        "dim": "3D",
+        "language": "国语",
+        "showTime": "2016-08-27 周五 17:15"
+      },
+      "id": 679209530,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 14,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 68,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1472283180000,
+        "payTime": 1472283240000,
+        "fixTime": 1472283242000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": true
+        },
+        "id": 12400,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "博纳国际影城(亿合城店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/679209530/refund?_v_=yes&cinemaId=12400",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "2号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "9",
+            "columnId": "13"
+          },
+          {
+            "type": "N",
+            "rowId": "9",
+            "columnId": "14"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "2016082776008729",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "2016082776008729"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/5d88220acfe3945cacd9b0f757bd9bab464737.jpg",
+        "id": 13511,
+        "eggsDesc": "",
+        "name": "忍者神龟2：破影而出"
+      },
+      "show": {
+        "startTime": 1467626400000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2016-07-04 周日 18:00"
+      },
+      "id": 630819873,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 15,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 79.8,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1467620548000,
+        "payTime": 1467620600000,
+        "fixTime": 1467620602000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 1503,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达国际影城(和平店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/630819873/refund?_v_=yes&cinemaId=1503",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "5号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "8",
+            "columnId": "9"
+          },
+          {
+            "type": "N",
+            "rowId": "8",
+            "columnId": "10"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "84558055504630",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "84558055504630"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/879d933586db5931e4bbaa1244baffee298942.jpg",
+        "id": 246188,
+        "eggsDesc": "",
+        "name": "愤怒的小鸟"
+      },
+      "show": {
+        "startTime": 1464000600000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2016-05-23 周日 18:50"
+      },
+      "id": 599717908,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 15,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 66,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1463999775000,
+        "payTime": 1463999801000,
+        "fixTime": 1463999802000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 6151,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达国际影城(高新店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/599717908/refund?_v_=yes&cinemaId=6151",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "2号厅6FL",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "7"
+          },
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "8"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "14256134104130",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "14256134104130"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/21ae1816b736d807e124bf9e354ebae8363677.jpg",
+        "id": 246234,
+        "eggsDesc": "片尾有2个彩蛋，不要错过哦",
+        "name": "美国队长3"
+      },
+      "show": {
+        "startTime": 1462540800000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2016-05-06 周四 21:20"
+      },
+      "id": 588784834,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 15,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 55.8,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1462521780000,
+        "payTime": 1462521804000,
+        "fixTime": 1462521806000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": true
+        },
+        "id": 12400,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "博纳国际影城(亿合城店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/588784834/refund?_v_=yes&cinemaId=12400",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "9号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "8",
+            "columnId": "09"
+          },
+          {
+            "type": "N",
+            "rowId": "8",
+            "columnId": "10"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "2016050678302295",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "2016050678302295"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p1.meituan.net/w.h/movie/ae5f44822ce97ce0fb03d4c97c24d6de320705.jpg",
+        "id": 78392,
+        "eggsDesc": "",
+        "name": "蚁人"
+      },
+      "show": {
+        "startTime": 1445332200000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2015-10-20 周一 17:10"
+      },
+      "id": 394552621,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 14,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 32,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1445328474000,
+        "payTime": 1445328505000,
+        "fixTime": 1445328508000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 13025,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "CGV星聚汇影城(柏威年店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/394552621/refund?_v_=yes&cinemaId=13025",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "4K巨幕厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "18"
+          }
+        ],
+        "count": 1
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "05460804",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "05460804"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p1.meituan.net/w.h/movie/f2d5c9f61ae5d9267c75a8fb3d6b9965478536.jpg",
+        "id": 75090,
+        "eggsDesc": "",
+        "name": "碟中谍5：神秘国度"
+      },
+      "show": {
+        "startTime": 1441706400000,
+        "dim": "2D",
+        "language": "英语",
+        "showTime": "2015-09-08 周一 18:00"
+      },
+      "id": 342726240,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 15,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 29.8,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1441681299000,
+        "payTime": 1441681321000,
+        "fixTime": 1441681322000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": true
+        },
+        "id": 12400,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "博纳国际影城(亿合城店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/342726240/refund?_v_=yes&cinemaId=12400",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "2号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "6",
+            "columnId": "13"
+          },
+          {
+            "type": "N",
+            "rowId": "6",
+            "columnId": "14"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "2015090876686339",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "2015090876686339"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/0a2f7e370e7990704ff1ea3c51530c516954573.jpg",
+        "id": 78607,
+        "eggsDesc": "",
+        "name": "终结者:创世纪"
+      },
+      "show": {
+        "startTime": 1440335400000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2015-08-23 周六 21:10"
+      },
+      "id": 332847667,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 15,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 66,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1440330861000,
+        "payTime": 1440330889000,
+        "fixTime": 1440330890000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 12380,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "万达国际影城(港汇店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/332847667/refund?_v_=yes&cinemaId=12380",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "六号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "6",
+            "columnId": "8"
+          },
+          {
+            "type": "N",
+            "rowId": "6",
+            "columnId": "9"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "44213182767417",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "44213182767417"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p1.meituan.net/w.h/movie/b22bc4b0cf71916e6c2f4c335c3a66a0300236.jpg",
+        "id": 78405,
+        "eggsDesc": "",
+        "name": "速度与激情7"
+      },
+      "show": {
+        "startTime": 1428919200000,
+        "dim": "3D",
+        "language": "英语",
+        "showTime": "2015-04-13 周日 18:00"
+      },
+      "id": 162083559,
+      "order": {
+        "uniqueStatus": 3,
+        "payLimitMin": 15,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 86,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1428894030000,
+        "payTime": 1428894066000,
+        "fixTime": 1428894071000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 1503,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "奥纳电影城(和平店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/162083559/refund?_v_=yes&cinemaId=1503",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "巨幕厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "31"
+          },
+          {
+            "type": "N",
+            "rowId": "10",
+            "columnId": "29"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": ""
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p1.meituan.net/w.h/movie/1cb422dc047862cedbd6d61ac170ea531272786.jpg",
+        "id": 246155,
+        "eggsDesc": "",
+        "name": "飓风营救3"
+      },
+      "show": {
+        "startTime": 1426930200000,
+        "dim": "3D",
+        "language": "国语",
+        "showTime": "2015-03-21 周五 17:30"
+      },
+      "id": 140192683,
+      "order": {
+        "uniqueStatus": 3,
+        "payLimitMin": 15,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 31,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1426920847000,
+        "payTime": 1426920939000,
+        "fixTime": 1426920941000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 1495,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "奥纳电影城(华南店)"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/140192683/refund?_v_=yes&cinemaId=1495",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "6号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "11",
+            "columnId": "15"
+          }
+        ],
+        "count": 1
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "2015032123045800",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "2015032123045800"
+      },
+      "otherStatus": "已完成"
+    },
+    {
+      "ui": {
+        "cate": 300
+      },
+      "gift": {
+        "giftFlag": 2
+      },
+      "promotion": {},
+      "migrate": {
+        "role": "unmigrate",
+        "display": false,
+        "allow": false
+      },
+      "award": {},
+      "movie": {
+        "img": "http://p0.meituan.net/w.h/movie/9fe956e61845d30f420a62f37e5e9a443583236.jpg",
+        "id": 78341,
+        "eggsDesc": "",
+        "name": "星际穿越"
+      },
+      "show": {
+        "startTime": 1417593600000,
+        "dim": "2D",
+        "language": "国语",
+        "showTime": "2014-12-03 周二 16:00"
+      },
+      "id": 64429890,
+      "order": {
+        "uniqueStatus": 10,
+        "payLimitMin": 15,
+        "leftPaySecond": 0,
+        "payStatus": 1,
+        "sellMoney": 66,
+        "fixStatus": 1,
+        "isMigrate": 0,
+        "groupRelationFlag": 2,
+        "orderTime": 1417586760000,
+        "payTime": 1417586801000,
+        "fixTime": 1417586802000
+      },
+      "cinema": {
+        "migrate": {
+          "allow": false
+        },
+        "id": 1503,
+        "takePlace": "影院内自助取票机或影院前台",
+        "allowRefund": 0,
+        "name": "奥纳电影城"
+      },
+      "refund": {
+        "shouldDisplayRefund": 0,
+        "detailUrl": "http://m.maoyan.com/order/64429890/refund?_v_=yes&cinemaId=1503",
+        "refundProgress": 0,
+        "notAllowRefundReason": "",
+        "allow": 0
+      },
+      "seats": {
+        "hallName": "2号厅",
+        "sectionName": "",
+        "list": [
+          {
+            "type": "N",
+            "rowId": "9",
+            "columnId": "11"
+          },
+          {
+            "type": "N",
+            "rowId": "9",
+            "columnId": "12"
+          }
+        ],
+        "count": 2
+      },
+      "pricePackages": {},
+      "comment": {
+        "score": 0,
+        "id": 0,
+        "status": 0
+      },
+      "user": {},
+      "exchange": {
+        "originIdName": "",
+        "originId": "",
+        "qrcode": "20235455",
+        "exchangeCodeName": "验证码",
+        "exchangeCode": "20235455"
+      },
+      "otherStatus": "已完成"
+    }
+  ]
+}

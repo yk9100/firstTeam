@@ -25,7 +25,7 @@
 			nowplaying,
 			comingsoon
 		}
-	}
+	};
 </script>
 <style lang="scss" scoped>
 	*{
@@ -45,6 +45,10 @@
 	}
 	.movie{
 		padding-top: 100px;
+	}
+
+	.filmlist{
+		overflow: hidden;
 	}
 	.main-top{
 		position: fixed;

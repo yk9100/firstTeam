@@ -224,7 +224,7 @@
 				// Indicator.close();
 			});
 		}
-	}
+	};
 </script>
 <style lang="scss" scoped>
 	.tofixed{

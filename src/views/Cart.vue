@@ -143,6 +143,7 @@
 		}
 	}
 	header{
+		background: white;
 		padding:15px 10px;
 		height:105px;
 		img{

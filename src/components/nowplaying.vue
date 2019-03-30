@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-      <div class="items" v-for="film in filmList">
+      <div class="items" v-for="film in filmList" @click="toTheater(film.id)">
         <img :src="rep2(rep1(film.img))" alt="">
         <section>
           <p class="title">{{film.nm}}</p>
@@ -42,6 +42,11 @@
         }else{
           return num
         }
+      },
+
+      // 跳页 Theaters
+      toTheater(filmId){
+        this.$router.push(`/Theaters/${filmId}`);
       }
     },
     computed: {
@@ -50,14 +55,15 @@
 
     mounted () {
       axios.get('/ajax/movieOnInfoList?token=').then((res)=>{
-          console.log(res.data.movieList)
+
+
+
           this.filmList = res.data.movieList
       })
     }
   }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
   *{
     font-size: 14px;

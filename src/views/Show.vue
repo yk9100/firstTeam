@@ -317,6 +317,7 @@
 	    }
 	}
 	header{
+		background: white;
 		position: relative;
 		height:74px;
 		div{

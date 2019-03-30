@@ -1,4 +1,5 @@
 module.exports = {
+
 	devServer: {
 		'proxy': {
 			'/ajax': {
@@ -8,7 +9,11 @@ module.exports = {
 			'/deal': {
 				target: 'http://m.maoyan.com',
 				changeOrigin: true,
-			}
+			},
+			'/movie': {
+                target: 'http://m.maoyan.com',
+                changeOrigin: true
+            }
 		}
 	}
 }
